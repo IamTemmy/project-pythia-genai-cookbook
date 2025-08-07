@@ -1,0 +1,11 @@
+format: jb-book
+root: index
+chapters:
+  - file: chapters/quickstart
+  - file: chapters/prompting
+  - file: chapters/rag
+  - file: chapters/finetune
+  - file: chapters/multimodal
+  - file: chapters/eval
+  - file: chapters/llmops
+  - file: chapters/deploy

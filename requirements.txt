@@ -1,0 +1,25 @@
+transformers>=4.41.0
+accelerate
+datasets
+evaluate
+bitsandbytes; platform_system!='Darwin' or platform_machine!='arm64'
+sentencepiece
+faiss-cpu
+numpy
+pandas
+matplotlib
+scikit-learn
+fastapi
+uvicorn
+gradio
+langchain
+pydantic
+presidio-analyzer
+presidio-anonymizer
+detoxify
+langdetect
+jupyter
+jupyterlab
+ipykernel
+jupyter-book
+myst-parser
