@@ -27,3 +27,4 @@ Then build the site: `jupyter-book build docs/`
 2. In **Settings → Pages**, set **Source: GitHub Actions** (the workflow is in `.github/workflows/pages.yml`).
 
 Generated on 2025-08-07.
+# trigger pages
