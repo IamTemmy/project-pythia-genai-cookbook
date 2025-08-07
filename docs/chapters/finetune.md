@@ -1,3 +1,3 @@
 # Fine-tuning & LoRA
 
-Parameter-efficient methods for adapting models.
+PEFT methods for adapting models.

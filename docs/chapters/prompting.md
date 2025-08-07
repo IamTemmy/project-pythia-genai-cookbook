@@ -1,3 +1,3 @@
 # Prompting
 
-Covers foundations, structured outputs, and tool/function calling.
+Foundations, structured outputs, and tool/function calling.

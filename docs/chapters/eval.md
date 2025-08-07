@@ -1,3 +1,3 @@
 # Evaluation & Safety
 
-Automatic and human-in-the-loop evaluation, safety and compliance.
+Automatic and human evaluation; safety checks.

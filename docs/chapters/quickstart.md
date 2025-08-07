@@ -1,3 +1,3 @@
 # Quickstart
 
-Run the `00_quickstart.ipynb` notebook to verify your environment and generate text with a small model.
+Run `00_quickstart.ipynb` for a tiny model demo and a simple TF‑IDF RAG on `docs/`.

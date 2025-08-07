@@ -1,3 +1,3 @@
 # LLMOps
 
-Tracing, logging, cost/latency budgets.
+Tracing, logging, and cost/latency budgets.
